@@ -79,7 +79,7 @@ class ModifyGarden extends HTMLElement {
         }
 
         .modify-garden-header {
-          text-align: center;
+          text-align: left;
           padding-bottom: 1.5rem;
         }
 
@@ -88,14 +88,16 @@ class ModifyGarden extends HTMLElement {
           font-size: 2.5rem;
           margin-bottom: 0.8rem;
           font-weight: 700;
+          text-align: left;
         }
 
         .modify-garden-subtitle {
           color: var(--color-text-secondary);
           font-size: 1.2rem;
           max-width: 800px;
-          margin: 0 auto 1.5rem;
+          margin: 0 auto 1 rem;
           font-weight: 400;
+
         }
 
         .plants-grid {
@@ -253,10 +255,10 @@ class ModifyGarden extends HTMLElement {
       </style>
 
       <div class="modify-garden-container">
-        <button class="back-button" id="backBtn">← Volver</button>
+        <button class="back-button" id="backBtn">Atrás</button>
         <div class="modify-garden-header">
-          <h2 class="modify-garden-title">Modificar Mi Jardín Virtual</h2>
-          <p class="modify-garden-subtitle">Añade o elimina plantas de tu jardín personal. ¡Crea un espacio verde a tu gusto!</p>
+          <h2 class="modify-garden-title">Edita tus plantitas</h2>
+          <p class="modify-garden-subtitle">Agrega o retira plantitas de tu Jardinnnn🐝</p>
         </div>
         <div class="plants-grid">
           ${plants

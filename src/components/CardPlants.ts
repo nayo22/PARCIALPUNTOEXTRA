@@ -63,7 +63,7 @@ class CardPlants extends HTMLElement {
              display: flex;
              flex-direction: column;
              height: 100%;
-             border-radius: 20px;
+             border-radius:50px;
              overflow: hidden;
              background: rgba(30, 30, 30, 0.5);
              box-shadow: 0 4px 30px rgba(0, 0, 0, 0.3);
@@ -92,7 +92,7 @@ class CardPlants extends HTMLElement {
            }
 
            .container:hover img {
-             transform: scale(1.05);
+             transform: scale(4);
            }
 
            .content {
@@ -115,7 +115,7 @@ class CardPlants extends HTMLElement {
              background-color: var(--color-accent);
              color: var(--color-text-light);
              border: none;
-             border-radius: 15px;
+             border-radius: 40px;
              cursor: pointer;
              transition: all 0.3s ease;
              font-weight: 600;
