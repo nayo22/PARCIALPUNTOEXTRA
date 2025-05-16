@@ -1,0 +1,202 @@
+[
+  {
+    "common_name": "Rosa",
+    "scientific_name": "Rosa",
+    "img": "https://mamabruja.com/wp-content/uploads/2021/10/ivan-jevtic-p7mo8-CG5Gs-unsplash-2-1200x800.jpg",
+    "type": "Arbusto",
+    "origin": "Asia",
+    "flowering_season": "Primavera",
+    "sun_exposure": "Sol pleno",
+    "watering": "Moderado"
+  },
+  {
+    "common_name": "Girasol",
+    "scientific_name": "Helianthus annuus",
+    "img": "https://zinniaflors.com/modules/ph_simpleblog/covers/104.jpg",
+    "type": "Anual",
+    "origin": "América del Norte",
+    "flowering_season": "Verano",
+    "sun_exposure": "Sol pleno",
+    "watering": "Moderado"
+  },
+  {
+    "common_name": "Tulipán",
+    "scientific_name": "Tulipa",
+    "img": "https://www.floristeriamorris.com/wp-content/uploads/todo-lo-que-necesitas-saber-sobre-tulipanes-cuidados-floracion-y-colores.jpg",
+    "type": "Bulbosa",
+    "origin": "Asia Central",
+    "flowering_season": "Primavera",
+    "sun_exposure": "Sol pleno",
+    "watering": "Moderado"
+  },
+  {
+    "common_name": "Narciso",
+    "scientific_name": "Narcissus",
+    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUpMltGyNDbyx_62cTiXQRlW1LOLFTtALRaC-IiZk2FzvTchZ5ZMpXODNqlodZd75_M6bwT4r6kBX44Vq_UqWoKkzIT3pbdNb6n522x-kff8rJCwceZF2uziMlx5BNTmN_yH_x8srSezw/s1600/narciso-blanco-y-rosa.jpg",
+    "type": "Bulbosa",
+    "origin": "Europa",
+    "flowering_season": "Primavera",
+    "sun_exposure": "Sol pleno",
+    "watering": "Moderado"
+  },
+  {
+    "common_name": "Lirio",
+    "scientific_name": "Lilium",
+    "img": "https://www.interflora.es/blog/wp-content/uploads/lirios-grandes-1-1024x894.jpg",
+    "type": "Perenne",
+    "origin": "Hemisferio Norte",
+    "flowering_season": "Verano",
+    "sun_exposure": "Sol pleno",
+    "watering": "Moderado"
+  },
+  {
+    "common_name": "Caléndula",
+    "scientific_name": "Calendula officinalis",
+    "img": "https://sembramos.com.co/wp-content/uploads/2022/12/calendula-planta-pixabay-1200x800.jpg",
+    "type": "Anual",
+    "origin": "Europa del Sur",
+    "flowering_season": "Primavera a Otoño",
+    "sun_exposure": "Sol pleno",
+    "watering": "Moderado"
+  },
+  {
+    "common_name": "Clavel",
+    "scientific_name": "Dianthus caryophyllus",
+    "img": "https://inaturalist-open-data.s3.amazonaws.com/photos/38101/large.jpg",
+    "type": "Perenne",
+    "origin": "Región Mediterránea",
+    "flowering_season": "Primavera a Verano",
+    "sun_exposure": "Sol pleno",
+    "watering": "Moderado"
+  },
+  {
+    "common_name": "Pensamiento",
+    "scientific_name": "Viola tricolor",
+    "img": "https://estag.fimagenes.com/img/v2/7e5/1103989_534017_900.jpg",
+    "type": "Anual",
+    "origin": "Europa",
+    "flowering_season": "Primavera a Verano",
+    "sun_exposure": "Sol pleno",
+    "watering": "Moderado"
+  },
+  {
+    "common_name": "Hortensia",
+    "scientific_name": "Hydrangea macrophylla",
+    "img": "https://www.consumer.es/app/uploads/2019/07/img_hortensia-azul.jpg",
+    "type": "Arbusto",
+    "origin": "Asia",
+    "flowering_season": "Verano",
+    "sun_exposure": "Sombra parcial",
+    "watering": "Abundante"
+  },
+  {
+    "common_name": "Azalea",
+    "scientific_name": "Rhododendron",
+    "img": "https://bouqs.com/blog/wp-content/uploads/2024/08/shutterstock_2470487527-min.jpg",
+    "type": "Arbusto",
+    "origin": "Asia",
+    "flowering_season": "Primavera",
+    "sun_exposure": "Sombra parcial",
+    "watering": "Moderado"
+  },
+  {
+    "common_name": "Peonía",
+    "scientific_name": "Paeonia",
+    "img": "https://alblancatelier.com/cdn/shop/products/simbologiapeoniaalblanc2_800x.jpg?v=1745654627",
+    "type": "Perenne",
+    "origin": "Asia",
+    "flowering_season": "Primavera a Verano",
+    "sun_exposure": "Sol pleno",
+    "watering": "Moderado"
+  },
+  {
+    "common_name": "Orquídea",
+    "scientific_name": "Orchidaceae",
+    "img": "https://www.floresyplantas.net/wp-content/uploads/flor-de-phalaenopsis.jpg",
+    "type": "Epífita",
+    "origin": "Mundial",
+    "flowering_season": "Variable",
+    "sun_exposure": "Luz indirecta",
+    "watering": "Moderado"
+  },
+  {
+    "common_name": "Iris",
+    "scientific_name": "Iris germanica",
+    "img": "https://www.lasaponaria.es/img/cms/800px-purple_iris_flower.jpg",
+    "type": "Perenne",
+    "origin": "Europa",
+    "flowering_season": "Primavera",
+    "sun_exposure": "Sol pleno",
+    "watering": "Moderado"
+  },
+  {
+    "common_name": "Geranio",
+    "scientific_name": "Pelargonium",
+    "img": "https://jardineros.com.co/wp-content/uploads/2022/01/Geranio-o-novio2.jpg",
+    "type": "Perenne",
+    "origin": "África del Sur",
+    "flowering_season": "Primavera a Verano",
+    "sun_exposure": "Sol pleno",
+    "watering": "Moderado"
+  },
+  {
+    "common_name": "Lavanda",
+    "scientific_name": "Lavandula angustifolia",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Single_lavender_flower02.jpg/1200px-Single_lavender_flower02.jpg",
+    "type": "Arbusto",
+    "origin": "Región Mediterránea",
+    "flowering_season": "Verano",
+    "sun_exposure": "Sol pleno",
+    "watering": "Bajo"
+  },
+  {
+    "common_name": "Salvia",
+    "scientific_name": "Salvia officinalis",
+    "img": "https://img77.uenicdn.com/image/upload/v1688101535/business/a377478f-3db9-4a6a-b011-d051a0c24541.jpg",
+    "type": "Arbusto",
+    "origin": "Región Mediterránea",
+    "flowering_season": "Verano",
+    "sun_exposure": "Sol pleno",
+    "watering": "Moderado"
+  },
+  {
+    "common_name": "Tomillo",
+    "scientific_name": "Thymus vulgaris",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Starr-080812-9700-Thymus_vulgaris-leaves-Makawao-Maui_%2824807095872%29.jpg",
+    "type": "Arbusto",
+    "origin": "Región Mediterránea",
+    "flowering_season": "Verano",
+    "sun_exposure": "Sol pleno",
+    "watering": "Bajo"
+  },
+  {
+    "common_name": "Menta",
+    "scientific_name": "Mentha",
+    "img": "https://www.lasaponaria.es/img/cms/menta-immagine.jpg",
+    "type": "Perenne",
+    "origin": "Europa y Asia",
+    "flowering_season": "Verano",
+    "sun_exposure": "Sol pleno a sombra parcial",
+    "watering": "Abundante"
+  },
+  {
+    "common_name": "Albahaca",
+    "scientific_name": "Ocimum basilicum",
+    "img": "https://agroactivocol.com/wp-content/uploads/2020/08/7e2db098-albahaca-basil-adobestock_81129315-scaled-1.jpg.webp",
+    "type": "Anual",
+    "origin": "India",
+    "flowering_season": "Verano",
+    "sun_exposure": "Sol pleno",
+    "watering": "Moderado"
+  },
+  {
+    "common_name": "Perejil",
+    "scientific_name": "Petroselinum crispum",
+    "img": "https://www.finedininglovers.com/es/sites/g/files/xknfdk1706/files/2023-04/ES%20SEO%20Perejil_%C2%A9unsplash_chandan%20chaurasia%20%281%29_0.jpg",
+    "type": "Bienal",
+    "origin": "Región Mediterránea",
+    "flowering_season": "Verano",
+    "sun_exposure": "Sol pleno a sombra parcial",
+    "watering": "Moderado"
+  }
+]
